@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently looking for a new opportunity in web/app development!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute to Open Source projects
+- 🥅 2021 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love going the gym and reading book at the beach.
 
 ### Connect with me:
