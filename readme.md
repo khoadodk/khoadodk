@@ -2,10 +2,10 @@
 
 ## I'm a self-taught Developer!
 
-- 🔭 I’m currently looking for a new opportunity in web/app development!
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Contribute to Open Source projects
-- ⚡ Fun fact: I love going the gym and reading book at the beach.
+- 🔭 I’m currently looking for a new opportunity in web development!
+- 🌱 I’m currently learning PHP and Laravel.
+- 🥅 2022 Goals: Be better at coding/fitness than last year.
+- ⚡ Fun fact: I love going the gym and go fishing on the weekends.
 
 ### Connect with me:
 
