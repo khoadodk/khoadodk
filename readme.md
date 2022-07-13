@@ -1,4 +1,4 @@
-### Hi there, I'm Khoa Do - aka DK [https://www.khoado.dev] 👋
+### Hi there, I'm Kay Do [https://www.khoado.dev] 👋
 
 ## I'm a self-taught Developer!
 
