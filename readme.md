@@ -1,9 +1,9 @@
 ### Hi there, I'm Kay Do [https://www.khoado.dev] 👋
 
-## I'm a self-taught Developer!
+## I'm a Front End Developer!
 
 - 🔭 I’m currently looking for a new opportunity in web development!
-- 🌱 I’m currently learning PHP and Laravel.
+- 🌱 A big fan of Shopify platform.
 - 🥅 2022 Goals: Be better at coding/fitness than last year.
 - ⚡ Fun fact: I love going the gym and go fishing on the weekends.
 
